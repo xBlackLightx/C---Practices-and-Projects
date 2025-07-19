@@ -1,0 +1,5 @@
+﻿  second_program.cpp
+C:\Users\Lenovo\source\repos\xBlackLightx\C---Practices-and-Projects\second_program\second_program\second_program.cpp(43,26): warning C4101: 'q76354': unreferenced local variable
+C:\Users\Lenovo\source\repos\xBlackLightx\C---Practices-and-Projects\second_program\second_program\second_program.cpp(43,9): warning C4101: 'thisIsAVariable': unreferenced local variable
+C:\Users\Lenovo\source\repos\xBlackLightx\C---Practices-and-Projects\second_program\second_program\second_program.cpp(43,6): warning C4101: 'c': unreferenced local variable
+  second_program.vcxproj -> C:\Users\Lenovo\source\repos\xBlackLightx\C---Practices-and-Projects\second_program\x64\Debug\second_program.exe

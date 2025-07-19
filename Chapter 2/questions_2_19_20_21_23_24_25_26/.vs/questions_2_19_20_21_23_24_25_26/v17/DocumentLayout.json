@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\xBlackLightx\\C---Practices-and-Projects\\questions_2_19_20_21_23_24_25_26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE666BF9-468A-4273-BDDC-13BDA9AD3B41}|questions_2_19_20_21_23_24_25_26\\questions_2_19_20_21_23_24_25_26.vcxproj|C:\\Users\\Lenovo\\source\\repos\\xBlackLightx\\C---Practices-and-Projects\\questions_2_19_20_21_23_24_25_26\\questions_2_19_20_21_23_24_25_26\\questions_2_19_20_21_23_24_25_26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE666BF9-468A-4273-BDDC-13BDA9AD3B41}|questions_2_19_20_21_23_24_25_26\\questions_2_19_20_21_23_24_25_26.vcxproj|solutionrelative:questions_2_19_20_21_23_24_25_26\\questions_2_19_20_21_23_24_25_26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "questions_2_19_20_21_23_24_25_26.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\xBlackLightx\\C---Practices-and-Projects\\questions_2_19_20_21_23_24_25_26\\questions_2_19_20_21_23_24_25_26\\questions_2_19_20_21_23_24_25_26.cpp",
+              "RelativeDocumentMoniker": "questions_2_19_20_21_23_24_25_26\\questions_2_19_20_21_23_24_25_26.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\xBlackLightx\\C---Practices-and-Projects\\questions_2_19_20_21_23_24_25_26\\questions_2_19_20_21_23_24_25_26\\questions_2_19_20_21_23_24_25_26.cpp",
+              "RelativeToolTip": "questions_2_19_20_21_23_24_25_26\\questions_2_19_20_21_23_24_25_26.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T20:34:33.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
