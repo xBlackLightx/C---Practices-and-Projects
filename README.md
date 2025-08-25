@@ -1,5 +1,5 @@
 # C++ Practices and Projects
-My codes for C++.
+My codes for C++ while I am learning C++. Next version will be updated next week. 
 
 the one who sees this repo may say these are only visual studio files, what is point?
 
